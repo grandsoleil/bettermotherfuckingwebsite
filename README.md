@@ -1,1 +1,1 @@
-MotherFuckingWebsite.com
+http://motherfuckingwebsite.com/
