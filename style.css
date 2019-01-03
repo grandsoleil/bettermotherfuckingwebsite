@@ -6,11 +6,3 @@ body {
 h1,h2,h3 {
     line-height:1.2
 }
-
-div#modepsyche {
-	float:right;
-	color:white;
-	background-color:magenta;
-	top:34px;
-	padding:2px 5px
-}
