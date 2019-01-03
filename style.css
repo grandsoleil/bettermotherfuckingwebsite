@@ -7,9 +7,11 @@ h1,h2,h3 {
     line-height:1.2
 }
 
-.modepsyche
-{
+.modepsyche {
     float: right;
+}
+
+mark {
     background-color: red;
     color: black;
 }
